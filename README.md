@@ -3,7 +3,7 @@
 This project focuses on analyzing Walmart’s sales data to derive meaningful business insights using interactive dashboards.
 
 🔹 Key Features & Insights:
-• Designed KPI cards for Sales, Profit, Products, and Countries
+• Designed KPI cards for Sales, Profit, Products, and Countries <br/>
 • Implemented slicers for Country, Product Name, and Sub-Category
 • Analyzed Region-wise and Category-wise profit trends
 • Visualized Country-wise sales contribution and trends
