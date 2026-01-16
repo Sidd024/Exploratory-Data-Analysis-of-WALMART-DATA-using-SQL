@@ -7,7 +7,7 @@
 -Country wise sales contribution & trend 
 -Year wise profit trend & growth
 ################################################################################################
-**Repository Files – Walmart Sales & Profit Analysis **
+**Repository Files – Walmart Sales & Profit Analysis**
 ################################################################################################
 -WALMART SQL TABLE ANALYSIS.docx – SQL queries and analysis
 -WALMART-Data-Dashboard.ipynb – Power BI dashboard
