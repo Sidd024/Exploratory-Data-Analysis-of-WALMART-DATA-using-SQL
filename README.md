@@ -1,21 +1,22 @@
-################################################################################################
-**Sharing my latest Power BI Dashboard project – Walmart Sales & Profit Analysis 📊**
-################################################################################################
--Managing the KPI cards (Sales, Profit, Products & Country)
--Adding the slicers Country, Product-Name & Sub-Category
--Showing the regions & categories wise trend
--Country wise sales contribution & trend
--Year wise profit trend & growth
-################################################################################################
-**Repository Files – Walmart Sales & Profit Analysis**
-################################################################################################
--WALMART SQL TABLE ANALYSIS.docx – SQL queries and analysis
--WALMART-Data-Dashboard.ipynb – Power BI dashboard
--Walmart Power Bi Dashboard.png – Dashboard preview
-################################################################################################
-**Using Technologies & Language**
-################################################################################################
--Python & Jupyter Notebook
--PowerBi
--MySql Queries
-Author: Siddhartha Kulshrestha
+📊 Sharing my latest Power BI Dashboard Project – Walmart Sales & Profit Analysis
+
+This project focuses on analyzing Walmart’s sales data to derive meaningful business insights using interactive dashboards.
+
+🔹 Key Features & Insights:
+• Designed KPI cards for Sales, Profit, Products, and Countries
+• Implemented slicers for Country, Product Name, and Sub-Category
+• Analyzed Region-wise and Category-wise profit trends
+• Visualized Country-wise sales contribution and trends
+• Showcased Year-wise profit trend and growth analysis
+
+📁 Repository Files – Walmart Sales & Profit Analysis:
+• WALMART SQL TABLE ANALYSIS.docx – SQL queries and data analysis
+• WALMART-Data-Dashboard.ipynb – Data analysis & preparation
+• Walmart Power BI Dashboard.png – Dashboard preview
+
+🛠 Technologies & Tools Used:
+• Python & Jupyter Notebook
+• Power BI
+• MySQL (SQL Queries)
+
+👤 Author: Siddhartha Kulshrestha
