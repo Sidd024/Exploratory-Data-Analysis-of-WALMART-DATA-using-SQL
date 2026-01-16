@@ -9,14 +9,14 @@ This project focuses on analyzing Walmart’s sales data to derive meaningful bu
 • Visualized Country-wise sales contribution and trends<br/>
 • Showcased Year-wise profit trend and growth analysis<br/>
 
-📁 Repository Files – Walmart Sales & Profit Analysis:
-• WALMART SQL TABLE ANALYSIS.docx – SQL queries and data analysis
-• WALMART-Data-Dashboard.ipynb – Data analysis & preparation
-• Walmart Power BI Dashboard.png – Dashboard preview
+📁 Repository Files – Walmart Sales & Profit Analysis:<br/>
+• WALMART SQL TABLE ANALYSIS.docx – SQL queries and data analysis<br/>
+• WALMART-Data-Dashboard.ipynb – Data analysis & preparation<br/>
+• Walmart Power BI Dashboard.png – Dashboard preview<br/>
 
-🛠 Technologies & Tools Used:
-• Python & Jupyter Notebook
-• Power BI
-• MySQL (SQL Queries)
+🛠 Technologies & Tools Used:<br/>
+• Python & Jupyter Notebook<br/>
+• Power BI<br/>
+• MySQL (SQL Queries)<br/>
 
 👤 Author: Siddhartha Kulshrestha
