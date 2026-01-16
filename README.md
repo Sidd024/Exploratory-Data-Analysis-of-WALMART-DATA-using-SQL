@@ -18,4 +18,4 @@
 -Python & Jupyter Notebook
 -PowerBi
 -MySql Queries
-
+Author: Siddhartha Kulshrestha
